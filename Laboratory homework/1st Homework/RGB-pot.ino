@@ -11,8 +11,7 @@ int ledValue1 = 0;
 int ledValue2 = 0;
 int ledValue3 = 0;
 
-void setup() 
-{
+void setup(){
   pinMode(potPin1, INPUT);
   pinMode(ledPin1, OUTPUT);
   pinMode(potPin2, INPUT);
@@ -21,8 +20,7 @@ void setup()
   pinMode(ledPin3, OUTPUT);
 }
 
-void loop() 
-{
+void loop(){
   potValue1 = analogRead(potPin1);
   ledValue1 = map(potValue1, 0, 1023, 0, 255);
   analogWrite(ledPin1,ledValue1);
