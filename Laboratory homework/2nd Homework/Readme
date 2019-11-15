@@ -1,0 +1,3 @@
+The circuit consists in 2 buzzers, one is active, the other passive, and one push button. 
+The passive buzzer reads a knock, then the ective buzzer starts a song after 5 sec.
+One press of the button will stop the song.
