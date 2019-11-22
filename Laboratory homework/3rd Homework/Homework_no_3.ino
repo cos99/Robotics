@@ -39,9 +39,6 @@ int digit2 = 0;
 int digit3 = 0;
 int digit4 = 0;
 
-unsigned long currentTime = 0;
-unsigned long lastTime = 0;
-const long period = 1000;
 
 int segments[segSize] = {
   pinA, pinB, pinC, pinD, pinE, pinF, pinG, pinDP
@@ -175,7 +172,4 @@ void loop() {
     dpSpot = dpLastSpot;
   }
   lastValueSW = valueSW;
-
-  currentTime = millis();
-  delay(5);
 }
