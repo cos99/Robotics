@@ -6,8 +6,9 @@ The good old snake game is back! All you have to do is to catch with the snake t
 
 If you want to find out more about the creator, select the Info option and access the link provided there.
 
-## Requirements:
+Video demo: 
 
+Below you can see the technical details:
  1. Hardware: 
     - 8x8 led matrix
     - LCD
