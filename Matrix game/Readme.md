@@ -7,38 +7,38 @@ The good old snake game is back! All you have to do is to catch with the snake t
 If you want to find out more about the creator, select the Info option and access the link provided there.
 
 ## Requirements:
-           
-            1. Hardware: 
-               - 8x8 led matrix
-               - LCD
-               - joystick
-               - MAX7219 Driver
-            
-            2. Game Specifications: 
-               - Score: -it depands on the size of the snake and difficulty: its formula is based on the length of the snake
-                                                                           which is added to the level and the sum is multiplied by 3;
-                                                                           from this result it is subtracted the value of the sum
-                                                                           between the initial length of the snake and the level, so the 
-                                                                           score can start at 0;
-                        
-                        -the score is calculated for each level; this means that the final score will be the combined score for each of
-                        the 3 lives the player had.
-                                                                           
-               - Difficulty: the speed at which the snake will move will increase with every level. Also, completing a level will be                                 made at a certain score. Levels provide a dfference in difficulty and it is the player's choice what level 
-                            he wants to play
-               
-               - Lives: each game, a player will have 3 lives
-            
-            3. LCD:
-               - Menu: 
-                 - Start game
-                 - High Score: updated every game.
-                 - Settings: Starting level: the player can choose between 1, 2 and 3;
-                             LCD contrast: the player is instructed to use the potentiometer(POT) in order to change that;
-                 - Info: Creator name, Github link, Game name
-                - Displayed info during the game: score, lives, level
-                - Game over screens: 
-                - "Congratulations, you finished the lvl"
-                - "Game over" (on the matrix);
-                - Switch to the start screen after
+
+ 1. Hardware: 
+    - 8x8 led matrix
+    - LCD
+    - joystick
+    - MAX7219 Driver
+
+ 2. Game Specifications: 
+    - Score: 
+      -it depends on the size of the snake and difficulty: its formula is based on the length of the snake
+                                                                which is added to the level and the sum is multiplied by 3;
+                                                                from this result it is subtracted the value of the sum
+                                                                between the initial length of the snake and the level, so the 
+                                                                score can start at 0;
+      -the score is calculated for each level; this means that the final score will be the combined score for each of
+             the 3 lives the player had.
+
+    - Difficulty: the speed at which the snake will move will increase with every level. Also, completing a level will be                                 made at a certain score. Levels provide a dfference in difficulty and it is the player's choice what level 
+                        he wants to play
+
+    - Lives: each game, a player will have 3 lives
+
+ 3. LCD:
+    - Menu: 
+      - Start game
+      - High Score: updated every game.
+      - Settings: Starting level: the player can choose between 1, 2 and 3;
+                  LCD contrast: the player is instructed to use the potentiometer(POT) in order to change that;
+      - Info: Creator name, Github link, Game name
+     - Displayed info during the game: score, lives, level
+     - Game over screens: 
+     - "Congratulations, you finished the lvl"
+     - "Game over" (on the matrix);
+     - Switch to the start screen after
                                        
