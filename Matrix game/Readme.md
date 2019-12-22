@@ -42,4 +42,8 @@ Below you can see the technical details:
      - "Congratulations, you finished the lvl"
      - "Game over" (on the matrix);
      - Switch to the start screen after
-                                       
+
+Hardware image:
+
+
+
