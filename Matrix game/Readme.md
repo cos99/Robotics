@@ -6,7 +6,7 @@ The good old snake game is back! All you have to do is to catch with the snake t
 
 If you want to find out more about the creator, select the Info option and access the link provided there.
 
-Video demo: 
+Video demo: https://www.youtube.com/watch?v=uYOn5bGWfI0
 
 Below you can see the technical details:
  1. Hardware: 
