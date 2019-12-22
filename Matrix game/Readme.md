@@ -14,15 +14,16 @@ Below you can see the technical details:
     - LCD
     - joystick
     - MAX7219 Driver
+    - Potentiometer
 
  2. Game Specifications: 
     - Score: 
-      -it depends on the size of the snake and difficulty: its formula is based on the length of the snake
+      - it depends on the size of the snake and difficulty: its formula is based on the length of the snake
                                                                 which is added to the level and the sum is multiplied by 3;
                                                                 from this result it is subtracted the value of the sum
                                                                 between the initial length of the snake and the level, so the 
                                                                 score can start at 0;
-      -the score is calculated for each level; this means that the final score will be the combined score for each of
+      - the score is calculated for each level; this means that the final score will be the combined score for each of
              the 3 lives the player had.
 
     - Difficulty: the speed at which the snake will move will increase with every level. Also, completing a level will be                                 made at a certain score. Levels provide a dfference in difficulty and it is the player's choice what level 
