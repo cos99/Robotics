@@ -43,7 +43,7 @@ Below you can see the technical details:
      - "Game over" (on the matrix);
      - Switch to the start screen after
 
-Hardware image:
+Hardware image: 
 
-
+![Image description](https://raw.githubusercontent.com/cos99/Robotics/master/Matrix%20game/20191222_081253.jpg)
 
