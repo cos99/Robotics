@@ -8,7 +8,7 @@ A demo of the way the sensor works can be seen at this link:
 
 Hardware image:
 
-![Image description]()
+![Image description](https://github.com/cos99/Robotics/blob/master/Final%20project/ProximityDetector.jpg)
 
 BOM link
 https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=303779441
