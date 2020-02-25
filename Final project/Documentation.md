@@ -6,7 +6,9 @@ The proximity detector is a very useful tool for a multiple of cases. You can us
 
 A demo of the way the sensor works can be seen at this link:
 
+Hardware image:
 
+![Image description]()
 
 BOM link
 https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=303779441
