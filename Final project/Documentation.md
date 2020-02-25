@@ -6,6 +6,8 @@ The proximity detector is a very useful tool for a multiple of cases. You can us
 
 A demo of the way the sensor works can be seen at this link:
 
+https://www.youtube.com/watch?v=NwbYQpbLXto
+
 Hardware image:
 
 ![Image description](https://github.com/cos99/Robotics/blob/master/Final%20project/ProximityDetector.jpg)
